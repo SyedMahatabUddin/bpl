@@ -6,7 +6,7 @@ const Navbar = ({coin}) => {
             <div className='mb-1.5'>
    <div className="navbar container mx-auto ">
   <div className="flex-1">
-   <img src="/src/assets/logo.png" alt="" />
+   <img src="./src/assets/logo.png" alt="" />
   </div>
   <div className="flex gap-8">
     <ul className='text-[#1313137a] flex items-center gap-8 font-medium'>
