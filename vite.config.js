@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 import plugin from 'eslint-plugin-react-hooks'
 
 export default defineConfig({
-  base: "/bpl-project-react/",
+  base: "./bpl/",
   plugins: [
     react(),
     tailwindcss(),
