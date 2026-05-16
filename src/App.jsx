@@ -8,7 +8,7 @@ import NewsLetter from "./Component/NewsLetter/NewsLetter";
 
 
 const FetchData = async () => {
-  const res = await fetch('/data.json')
+  const res = await fetch('./data.json')
   return res.json();
 };
 
