@@ -1,0 +1,112 @@
+[
+  {
+    "playerId": 1,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/9dB8q1T/cf-3d-Jq1-OHy.jpg",
+    "role": "All-rounder",
+    "rating": 95,
+    "battingType": "Left-hand bat",
+    "bowlingType": "Slow left-arm orthodox",
+    "price": 1500000
+  },
+  {
+    "playerId": 2,
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/k6ktN305/SGp-BOww-V-400x400.jpg",
+    "role": "Batsman",
+    "rating": 88,
+    "battingType": "Left-hand bat",
+    "bowlingType": "N/A",
+    "price": 1200000
+  },
+  {
+    "playerId": 3,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/cXxW9S1d/1un384ug-rashid-khan-afp-625x300-02-September-25.webp",
+    "role": "Bowler",
+    "rating": 98,
+    "battingType": "Right-hand bat",
+    "bowlingType": "Legbreak googly",
+    "price": 1000000
+  },
+  {
+    "playerId": 4,
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "image": "https://i.ibb.co.com/tM59HxX1/Andre-Russell.jpg",
+    "role": "All-rounder",
+    "rating": 94,
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "price": 500000
+  },
+  {
+    "playerId": 5,
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/p6Swy5t1/image-206579-1724930014.jpg",
+    "role": "Wicketkeeper Batsman",
+    "rating": 89,
+    "battingType": "Right-hand bat",
+    "bowlingType": "N/A",
+    "price": 1100000
+  },
+  {
+    "playerId": 6,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://i.ibb.co.com/JWvBK1Xb/1772517394084-Babar-Azam.webp",
+    "role": "Batsman",
+    "rating": 96,
+    "battingType": "Right-hand bat",
+    "bowlingType": "N/A",
+    "price": 200000
+  },
+  {
+    "playerId": 7,
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/xSt89TyV/a94db830-e886-11f0-9f8d-bfce9943ae66.jpg",
+    "role": "Bowler",
+    "rating": 90,
+    "battingType": "Left-hand bat",
+    "bowlingType": "Left-arm fast-medium",
+    "price": 1100000
+  },
+  {
+    "playerId": 8,
+    "name": "Jos Buttler",
+    "country": "England",
+    "image": "https://i.ibb.co.com/1G670LFc/181807-eshoasmenf-1666681557.jpg",
+    "role": "Wicketkeeper Batsman",
+    "rating": 95,
+    "battingType": "Right-hand bat",
+    "bowlingType": "N/A",
+    "price": 1400000
+  },
+  {
+    "playerId": 9,
+    "name": "Towhid Hridoy",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/DfRwmQqc/62530-17189592093182-1920.avif",
+    "role": "Batsman",
+    "rating": 85,
+    "battingType": "Right-hand bat",
+    "bowlingType": "N/A",
+    "price": 800000
+  },
+  {
+    "playerId": 10,
+    "name": "Sunil Narine",
+    "country": "West Indies",
+    "image": "https://i.ibb.co.com/sdfrHpbf/1742997546179-Foto-Jet-2025-03-26-T192856.jpg",
+    "role": "All-rounder",
+    "rating": 92,
+    "battingType": "Left-hand bat",
+    "bowlingType": "Off-break",
+    "price": 1400000
+  }
+]
